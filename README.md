@@ -1,4 +1,4 @@
-I am Fwangshak Sabar Mishwatts - CNSsP also knon as @mishesbone or tekG.d
+I am Fwangshak Sabar Mishwatts - CNSsP also known as @mishesbone or tekG.d
 
 I hold Bachelor of Science (Education) From the Federal College of Education Pankshin, Plateau State Nigeria (I.e.Federal University of Education).
 
