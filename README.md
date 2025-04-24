@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @mishesbone
-- 👀 I’m interested in coding and re-inventing the wheel.
-- 🌱 I’m currently a Technical Support Engineer at Valinno Systems Ltd.
-- I'm working on Python projects as well as projects using these machine learning Libraries, including: Tensorflow,Keras,Scikit learn,Matplotlib,scipy,numpy,pandas; I also i'm working on a C++ Project.
-- 💞️ I’m looking to collaborate on Sofware development and Artificial Intelligence projects.
-- 📫 How to reach me itsmishesbone@gmail.com or call +2349120980217.
+I am Fwangshak Sabar Mishwatts - CNSsP also knon as @mishesbone or tekG.d
+
+I hold Bachelor of Science (Education) From the Federal College of Education Pankshin, Plateau State Nigeria (I.e.Federal University of Education).
+
+Currently undertaking a MSc. Management with Project management at the BPP University,UK until May 2027.
+
+A Certified Nuclear Security Specialized Professional - CNSsP from the World Institute for Nuclear Security Academy and thus a member of WINS and Alumni of WINS academy.
+
+I have served as a Microsoft 365 Technical support engineer with Tek expert's Nigeria (i.e Teknowledge) Victoria Island, Lagos, Developer with Ascentree,IT officer and CISO with Chanelle Microfinance Bank Ikeja, Lagos and Technical support engineer III at Valinno systems ltd.
+
+- I am the Chief Executive Officer and Founder of extensions of you - eoy; An Information and Communication Technology solutions Provider, Vendor and Research Enterprise outfit based in Lagos Nigeria.
+extensions of you operates a sibsidiary outfit Roboteknologies as a hub for Research located in Pankshin Local Government Area of Plateau State, Nigeria.
+
+
+For Partnership and Collaborations with extensions of you - eoy you can reach me on the email address itsmishesbone@gmail.com or whatsapp +2349120980217.
 
 <!---
 mishesbone/mishesbone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
